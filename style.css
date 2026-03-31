@@ -364,10 +364,10 @@ p {
 .brand-wrap {
   display: flex;
   align-items: center;
+  gap: 24px;   /* more breathing room */
 }
-
 .site-logo {
-  height: 60px;
+  height: 52px;
   width: auto;
 }
 
